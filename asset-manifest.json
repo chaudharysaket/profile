@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0970c078.css",
+    "main.js": "/static/js/main.190e0104.js",
+    "static/media/nit.png": "/static/media/nit.323b60dcd32f558ed59f.png",
+    "static/media/cmu.png": "/static/media/cmu.19d5763ad063c1200056.png",
+    "static/media/Saket_Passport.jpg": "/static/media/Saket_Passport.2205cf36399ace2e5066.jpg",
+    "index.html": "/index.html",
+    "main.0970c078.css.map": "/static/css/main.0970c078.css.map",
+    "main.190e0104.js.map": "/static/js/main.190e0104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0970c078.css",
+    "static/js/main.190e0104.js"
+  ]
+}
